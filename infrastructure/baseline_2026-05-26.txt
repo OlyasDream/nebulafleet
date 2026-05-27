@@ -1,17 +1,17 @@
 ==============================
  NEBULAFLEET SYSTEM BASELINE
- 2026-05-26 18:46
+ 2026-05-26 19:15
 ==============================
 
 [ CPU ]
 Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
-Load average: 3.36 3.81 4.89
+Load average: 3.36 3.51 3.71
 
 [ MEMORY ]
 Total RAM: 16GB
 
 [ DISK ]
-Total: 466Gi  Used: 422Gi  Available: 18Gi  Usage: 96%
+Total: 466Gi  Used: 386Gi  Available: 52Gi  Usage: 89%
 
 [ NEBULAFLEET STORAGE ]
 4.0K	/Users/olyalvova/nebulafleet/README.md

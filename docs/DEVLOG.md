@@ -33,5 +33,5 @@ Report auto-saved to fleet-server/reports/.
 Profiled local system resources — CPU, memory, disk, storage breakdown.
 Disk usage flagged at 96% — action required.
 Baseline saved to infrastructure/ for future comparison.
-
+Disk freed — 25GB recovered. Usage reduced from 96% to 89%.
 ---

@@ -25,3 +25,13 @@ AV-01 through AV-04 all online. Disk usage nominal at 42%.
 Report auto-saved to fleet-server/reports/.
 
 ---
+## 2026-05-26 | Day 1
+**Role:** Infrastructure Analyst
+**Task:** System baseline report
+**Status:** Complete
+
+Profiled local system resources — CPU, memory, disk, storage breakdown.
+Disk usage flagged at 96% — action required.
+Baseline saved to infrastructure/ for future comparison.
+
+---

@@ -1,0 +1,21 @@
+==============================
+ NEBULAFLEET LOG INVENTORY
+ 2026-05-27 16:37
+==============================
+
+[ NODE LOG AUDIT ]
+--- AV-01 ---
+  No log files found — node may not be writing data
+
+--- AV-02 ---
+  No log files found — node may not be writing data
+
+--- AV-03 ---
+  No log files found — node may not be writing data
+
+--- AV-04 ---
+  No log files found — node may not be writing data
+
+==============================
+ Inventory saved: /Users/olyalvova/nebulafleet/data-pipeline/log-inventory_2026-05-27.txt
+==============================

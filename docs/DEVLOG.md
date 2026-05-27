@@ -26,12 +26,17 @@ Report auto-saved to fleet-server/reports/.
 
 ---
 ## 2026-05-26 | Day 1
-**Role:** Infrastructure Analyst
-**Task:** System baseline report
-**Status:** Complete
+**Role:** Infrastructure Analyst  
+**Task:** System baseline report  
+**Status:** Complete  
 
 Profiled local system resources — CPU, memory, disk, storage breakdown.
-Disk usage flagged at 96% — action required.
-Baseline saved to infrastructure/ for future comparison.
+
+Disk usage flagged at 96% — action required. 
+
+Baseline saved to infrastructure/ for future comparison.  
+
 Disk freed — 25GB recovered. Usage reduced from 96% to 89%.
+
+
 ---

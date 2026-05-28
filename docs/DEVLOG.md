@@ -51,3 +51,14 @@ Inventory saved to data-pipeline/.
 Baseline established for future comparison.
 
 ---
+
+## 2026-05-28 | Day 1
+**Role:** Junior Data Engineer
+**Task:** Node status CSV export
+**Status:** Complete
+
+Built first structured data export pipeline.
+Extracted status, battery, GPS and LIDAR fields from all 4 nodes.
+Output: 4 rows of clean CSV data saved to data-pipeline/processed/.
+
+---

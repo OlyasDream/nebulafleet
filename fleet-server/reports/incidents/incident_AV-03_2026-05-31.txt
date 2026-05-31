@@ -1,0 +1,20 @@
+=================
+ NEBULA FLEET INCIDENT REPORT
+=================
+
+Node:          AV-03
+Status:        OFFLINE
+Battery:       0%
+GPS:           INACTIVE
+LIDAR:         INACTIVE
+Detected:      2026-05-31 16:21:12
+Reported by: fleet-ops
+[ INVESTIGATION ]
+ Node failed morning health check.
+  Satus file reviewed - all sensors inactive.
+ Escalated for hardware inspection.
+[ STATUS ]
+ Open - pending resolution
+=================
+ Report saved: /Users/olyalvova/nebulafleet/fleet-server/reports/incidents/incident_AV-03_2026-05-31.txt
+=================

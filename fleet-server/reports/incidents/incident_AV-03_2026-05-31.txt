@@ -14,7 +14,5 @@ Reported by: fleet-ops
   Satus file reviewed - all sensors inactive.
  Escalated for hardware inspection.
 [ STATUS ]
- Open - pending resolution
-=================
- Report saved: /Users/olyalvova/nebulafleet/fleet-server/reports/incidents/incident_AV-03_2026-05-31.txt
-=================
+  Resolved — 2026-05-31 16:44
+  Node restored to online. All sensors active. Battery nominal.

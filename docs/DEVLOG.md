@@ -66,11 +66,14 @@ Output: 4 rows of clean CSV data saved to data-pipeline/processed/.
 ## 2026-05-31 | Day 2
 **Role:** Technical Operations  
 **Task:** AV-03 incident response  
-**Status:** Complete  
+**Status:** Complete   
 
 AV-03 flagged offline during morning health check.
 All sensors inactive — battery at 0%.
-Formal incident report generated and saved to fleet-server/reports/incidents/.
-Escalated for hardware inspection.
+Incident report generated and escalated.
+Node restored to online — all sensors active.
+Incident closed at 16:44.
+
+---
 
 ---

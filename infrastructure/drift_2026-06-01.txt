@@ -1,0 +1,24 @@
+=================
+ NEBULA DRIFT CHECK
+ 2026-06-01 13:00
+=================
+
+ [ DISK USAGE ]
+ Baseline: 89%
+ Current: 88%
+ Stable - within 5% threshold
+
+[ CPU LOAD ]
+ Baseline: 4.89 (15 min avg)
+ Current: 3.94 (15 min avg)
+
+[ NEBULA FLEET STORAGE ]
+4.0K	/Users/olyalvova/nebulafleet/README.md
+ 16K	/Users/olyalvova/nebulafleet/data-pipeline
+4.0K	/Users/olyalvova/nebulafleet/docs
+ 52K	/Users/olyalvova/nebulafleet/fleet-server
+ 20K	/Users/olyalvova/nebulafleet/infrastructure
+  0B	/Users/olyalvova/nebulafleet/telemetry
+=================
+ Drift report saved: /Users/olyalvova/nebulafleet/infrastructure/drift_2026-06-01.txt
+=================

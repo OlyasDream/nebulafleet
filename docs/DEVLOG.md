@@ -71,9 +71,20 @@ Output: 4 rows of clean CSV data saved to data-pipeline/processed/.
 AV-03 flagged offline during morning health check.
 All sensors inactive — battery at 0%.
 Incident report generated and escalated.
+
 Node restored to online — all sensors active.
 Incident closed at 16:44.
 
 ---
+
+## 2026-06-01 | Day 2
+**Role:** Infrastructure Analyst  
+**Task:** System drift check  
+**Status:** Complete  
+
+Compared current system state against Day 1 baseline.
+Disk usage: 88% vs baseline 89% — stable, within 5% threshold.
+CPU load: 3.94 vs baseline 4.89 — improved.
+No drift detected. Fleet storage growing as expected.
 
 ---

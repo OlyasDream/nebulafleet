@@ -88,3 +88,15 @@ CPU load: 3.94 vs baseline 4.89 — improved.
 No drift detected. Fleet storage growing as expected.
 
 ---
+
+## 2026-06-02 | Day 2
+**Role:** Data Operations  
+**Task:** Log generation and inventory audit  
+**Status:** Complete  
+
+Built log generator script — 10 randomized events per node.
+Generated first shift logs across all 4 nodes.
+Log inventory confirmed 1 file per node at 4.0K each.
+Day 1 baseline: empty. Day 2: data flowing.
+
+---

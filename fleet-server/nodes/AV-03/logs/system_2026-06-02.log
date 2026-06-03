@@ -1,0 +1,10 @@
+2026-06-02 18:15:42 | INFO | SYSTEM | Lane change executed
+2026-06-02 18:15:42 | WARNING | LIDAR | Pedestrian detected at 6m
+2026-06-02 18:15:42 | INFO | LIDAR | Obstacle detected at 12m
+2026-06-02 18:15:42 | INFO | LIDAR | Obstacle detected at 12m
+2026-06-02 18:15:42 | INFO | CAMERA | Traffic light: GREEN — vehicle moving
+2026-06-02 18:15:42 | WARNING | RADAR | Vehicle detected 8m ahead
+2026-06-02 18:15:42 | INFO | LIDAR | Obstacle detected at 12m
+2026-06-02 18:15:42 | INFO | SYSTEM | Lane change executed
+2026-06-02 18:15:42 | INFO | CAMERA | Traffic light: RED — vehicle stopped
+2026-06-02 18:15:42 | INFO | GPS | Position updated

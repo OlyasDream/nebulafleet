@@ -1,0 +1,25 @@
+==============================
+ NEBULAFLEET LOG INVENTORY
+ 2026-06-02 18:18
+==============================
+
+[ NODE LOG AUDIT ]
+--- AV-01 ---
+  Log files found: 1
+    system_2026-06-02.log — 4.0K
+
+--- AV-02 ---
+  Log files found: 1
+    system_2026-06-02.log — 4.0K
+
+--- AV-03 ---
+  Log files found: 1
+    system_2026-06-02.log — 4.0K
+
+--- AV-04 ---
+  Log files found: 1
+    system_2026-06-02.log — 4.0K
+
+==============================
+ Inventory saved: /Users/olyalvova/nebulafleet/data-pipeline/log-inventory_2026-06-02.txt
+==============================

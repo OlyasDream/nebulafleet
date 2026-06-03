@@ -1,0 +1,10 @@
+2026-06-02 18:15:42 | WARNING | LIDAR | Pedestrian detected at 6m
+2026-06-02 18:15:42 | INFO | SYSTEM | Speed: 25mph
+2026-06-02 18:15:42 | WARNING | LIDAR | Pedestrian detected at 6m
+2026-06-02 18:15:42 | WARNING | LIDAR | Pedestrian detected at 6m
+2026-06-02 18:15:42 | INFO | CAMERA | Traffic light: GREEN — vehicle moving
+2026-06-02 18:15:42 | INFO | SYSTEM | Speed: 15mph
+2026-06-02 18:15:42 | INFO | SYSTEM | Speed: 25mph
+2026-06-02 18:15:42 | INFO | LIDAR | Obstacle detected at 12m
+2026-06-02 18:15:42 | INFO | CAMERA | Traffic light: GREEN — vehicle moving
+2026-06-02 18:15:42 | INFO | GPS | Position updated

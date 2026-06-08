@@ -100,3 +100,16 @@ Log inventory confirmed 1 file per node at 4.0K each.
 Day 1 baseline: empty. Day 2: data flowing.
 
 ---
+
+## 2026-06-08 | Day 2
+**Role:** Junior Data Engineer  
+**Task:** Node status enrichment pipeline  
+**Status:** Complete  
+
+Built enrichment script combining node status CSV with log counts.
+Reads existing extracted data — no re-extraction needed.
+Added log_count column to structured dataset.
+Output: 4 enriched rows saved to data-pipeline/processed/.
+First ETL pipeline complete — extract, transform, load.
+
+---

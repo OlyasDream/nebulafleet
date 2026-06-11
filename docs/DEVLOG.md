@@ -113,3 +113,15 @@ Output: 4 enriched rows saved to data-pipeline/processed/.
 First ETL pipeline complete — extract, transform, load.
 
 ---
+
+## 2026-06-10 | Day 3
+**Role:** Technical Operations  
+**Task:** Morning briefing Python script  
+**Status:** Complete  
+
+Built first Python script for NebulaFleet.
+Reads today's health report automatically using date-based filename.
+Prints formatted morning briefing to terminal.
+Python integrated into Technical Operations workflow.
+
+---

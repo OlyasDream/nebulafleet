@@ -125,3 +125,15 @@ Prints formatted morning briefing to terminal.
 Python integrated into Technical Operations workflow.
 
 ---
+
+## 2026-06-10 | Day 3
+**Role:** Infrastructure Analyst  
+**Task:** Disk usage trend analysis  
+**Status:** Complete  
+
+Built Python trend analysis script.
+Reads all baseline reports automatically using glob.
+Trend: 2026-05-26 at 89%, 2026-06-01 at 88% — stable, slight improvement.
+Foundation for long-term infrastructure monitoring.
+
+---

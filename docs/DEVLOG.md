@@ -150,3 +150,15 @@ Most active sensor: LIDAR at 14 events.
 First Python data analysis script complete.
 
 ---
+
+## 2026-06-10 | Day 3
+**Role:** Junior Data Engineer  
+**Task:** Fleet summary report  
+**Status:** Complete  
+
+Built final stage of ETL pipeline — load/report.
+Used csv.DictReader to read enriched dataset by column name.
+Generated stakeholder-readable fleet summary.
+Full pipeline complete: extract (Day 1) → transform (Day 2) → report (Day 3).
+
+---

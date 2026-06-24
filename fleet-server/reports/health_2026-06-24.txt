@@ -1,0 +1,20 @@
+==============================
+ NEBULAFLEET HEALTH CHECK
+ 2026-06-24 16:34
+==============================
+
+[ NODE STATUS ]
+  AV-01 — ONLINE
+  AV-02 — ONLINE
+  AV-03 — ONLINE
+  AV-04 — ONLINE
+
+[ DISK USAGE ]
+  AV-01 — 42% OK
+  AV-02 — 42% OK
+  AV-03 — 42% OK
+  AV-04 — 42% OK
+
+==============================
+  Report saved: /Users/olyalvova/nebulafleet/fleet-server/reports/health_2026-06-24.txt
+==============================

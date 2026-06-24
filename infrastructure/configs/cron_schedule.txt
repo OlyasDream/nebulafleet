@@ -1,0 +1,5 @@
+# NebulaFleet Cron Schedule
+# Managed by: fleet-ops
+
+# Daily fleet health check — runs every morning at 8:00am
+0 8 * * * /Users/olyalvova/nebulafleet/fleet-server/scripts/health_check.sh
